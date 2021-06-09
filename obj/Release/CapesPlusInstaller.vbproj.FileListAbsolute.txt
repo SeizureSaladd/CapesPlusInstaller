@@ -1,0 +1,14 @@
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\bin\Release\CapesPlusInstaller.exe.config
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\bin\Release\CapesPlusInstaller.exe
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\bin\Release\CapesPlusInstaller.pdb
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\bin\Release\CapesPlusInstaller.xml
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.vbproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.Form1.resources
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.Message.resources
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.Resources.resources
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.updater.resources
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.vbproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.vbproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.exe
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.xml
+C:\Users\Jacob\source\repos\CapesPlusInstaller\CapesPlusInstaller\obj\Release\CapesPlusInstaller.pdb
